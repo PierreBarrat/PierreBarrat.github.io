@@ -6,8 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+Mon [CV en français](http://https://pierrebarrat.github.io//files/cv_fr.pdf)
 
-{% include base_path %}
+
+<!-- {% include base_path %}
 
 Education
 ======
@@ -57,3 +59,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->

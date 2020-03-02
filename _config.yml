@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pierre Barrat-Charlaix"
   avatar           : "profile.png"
-  bio              : "Ethnographer of computation and computational ethnographer; research staff at the <a style='color: black;' href='http://bids.berkeley.edu'>Berkeley Institute for Data Science</a>"
+  bio              : "Quantitative biologist; Postdoc at the <a style='color: black;' href='https://neherlab.org/'>NeherLab</a> in the <a style='color: black;' href='https://www.biozentrum.unibas.ch/'>Biozentrum</a> of Basel"
 
   location         : "Basel, Switzerland"
   employer         :
@@ -242,7 +242,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
