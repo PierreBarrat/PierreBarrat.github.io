@@ -27,7 +27,7 @@ Science July 2020: 440-445, [https://science.sciencemag.org/content/369/6502/440
 
 __[How pairwise coevolutionary models capture the collective residue variability in proteins?](https://arxiv.org/abs/1801.04184)__  
 Matteo Figliuzzi, Pierre Barrat-Charlaix, Martin Weigt  
-Molecular Biology and Evolution __35__ (4), January 2018, [https://doi.org/10.1093/molbev/msy057](https://doi.org/10.1093/molbev/msy057)
+Molecular Biology and Evolution __35__ (4), January 2018, [https://doi.org/10.1093/molbev/msy007](https://doi.org/10.1093/molbev/msy057)
 
 __[Improving landscape inference by integrating heterogeneous data in the inverse Ising problem](http://pierrebarrat.github.io/files/srep37812.pdf)__  
 Pierre Barrat-Charlaix, Matteo Figliuzzi, Martin Weigt  
