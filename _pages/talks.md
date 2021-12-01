@@ -4,6 +4,11 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+
+## 2021
+__Seasonal influenza viruses: Limited predictability of evolution & Inference of reassortment networks__
+Internal seminar of the [Laboratoire Jean Perrin](https://www.labojeanperrin.fr/), [Slides](http://pierrebarrat.github.io/files/Slides_LJP_influenza_2021_11.pdf)
+
 ## 2019
 __Towards infering Potts models for evolutionary correlated sequence data__  
 [From Molecular Basis to Predictability and Control of Evolution](https://indico.fysik.su.se/event/6552/), Stockholm, July 2019, [Slides](http://pierrebarrat.github.io/files/phylogeny_stockholm.pdf)

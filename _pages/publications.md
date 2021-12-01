@@ -13,7 +13,8 @@ Here is a link to my [Google Scholar profile](https://scholar.google.com/citatio
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-And below is a selection of papers: 
+And below is a list of papers:
+
 
 __[Limited predictability of amino acid substitutions in seasonal influenza viruses](http://pierrebarrat.github.io/files/2020.07.31.231100v1.full.pdf)__
 Pierre Barrat-Charlaix, John Huddleston, Trevor Bedford, Richard A Neher
