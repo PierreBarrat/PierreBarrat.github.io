@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 2021
-__Seasonal influenza viruses: Limited predictability of evolution & Inference of reassortment networks__
+__Seasonal influenza viruses: Limited predictability of evolution & Inference of reassortment networks__  
 Internal seminar of the [Laboratoire Jean Perrin](https://www.labojeanperrin.fr/), [Slides](http://pierrebarrat.github.io/files/Slides_LJP_influenza_2021_11.pdf)
 
 ## 2019
