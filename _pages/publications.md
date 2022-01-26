@@ -15,16 +15,16 @@ Here is a link to my [Google Scholar profile](https://scholar.google.com/citatio
 {% endfor %} -->
 And below is a list of papers:
 
-__[TreeKnit: Inferring Ancestral Reassortment Graphs of influenza viruses](http://pierrebarrat.github.io/files/2021.12.20.473456v1.full.pdf)__
-Pierre Barrat-Charlaix, Timothy G. Vaughan, Richard A Neher
+__[TreeKnit: Inferring Ancestral Reassortment Graphs of influenza viruses](http://pierrebarrat.github.io/files/2021.12.20.473456v1.full.pdf)__   
+Pierre Barrat-Charlaix, Timothy G. Vaughan, Richard A Neher  
 bioRxiv 2021.12.20.473456, [https://doi.org/10.1101/2021.12.20.473456](https://doi.org/10.1101/2021.12.20.473456)
 
-__[Limited predictability of amino acid substitutions in seasonal influenza viruses](http://pierrebarrat.github.io/files/2020.07.31.231100v1.full.pdf)__
-Pierre Barrat-Charlaix, John Huddleston, Trevor Bedford, Richard A Neher
+__[Limited predictability of amino acid substitutions in seasonal influenza viruses](http://pierrebarrat.github.io/files/2020.07.31.231100v1.full.pdf)__    
+Pierre Barrat-Charlaix, John Huddleston, Trevor Bedford, Richard A Neher  
 Molecular Biology and Evolution, March 2021, [https://doi.org/10.1093/molbev/msab065](https://doi.org/10.1093/molbev/msab065)
 
-__[An evolution-based model for designing chorismate mutase enzymes](http://pierrebarrat.github.io/files/2020.04.01.020487v1.full.pdf)__
-William P. Russ, Matteo Figliuzzi, Christian Stocker, Pierre Barrat-Charlaix, Michael Socolich1, Peter Kast, Donald Hilvert, Remi Monasson, Simona Cocco, Martin Weigt, Rama Ranganathan
+__[An evolution-based model for designing chorismate mutase enzymes](http://pierrebarrat.github.io/files/2020.04.01.020487v1.full.pdf)__   
+William P. Russ, Matteo Figliuzzi, Christian Stocker, Pierre Barrat-Charlaix, Michael Socolich, Peter Kast, Donald Hilvert, Remi Monasson, Simona Cocco, Martin Weigt, Rama Ranganathan  
 Science July 2020: 440-445, [https://science.sciencemag.org/content/369/6502/440.full](https://science.sciencemag.org/content/369/6502/440.full)
 
 
