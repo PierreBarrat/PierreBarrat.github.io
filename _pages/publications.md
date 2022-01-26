@@ -15,6 +15,9 @@ Here is a link to my [Google Scholar profile](https://scholar.google.com/citatio
 {% endfor %} -->
 And below is a list of papers:
 
+__[TreeKnit: Inferring Ancestral Reassortment Graphs of influenza viruses](http://pierrebarrat.github.io/files/2021.12.20.473456v1.full.pdf)__
+Pierre Barrat-Charlaix, Timothy G. Vaughan, Richard A Neher
+bioRxiv 2021.12.20.473456, [https://doi.org/10.1101/2021.12.20.473456](https://doi.org/10.1101/2021.12.20.473456)
 
 __[Limited predictability of amino acid substitutions in seasonal influenza viruses](http://pierrebarrat.github.io/files/2020.07.31.231100v1.full.pdf)__
 Pierre Barrat-Charlaix, John Huddleston, Trevor Bedford, Richard A Neher
