@@ -4,6 +4,9 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+## 2022  
+__Seasonal influenza viruses: Limited predictability of evolution & Inference of reassortment networks__    
+Internal seminar of the [Laboratoire de Biologie Computationnelle et Quantitative](http://www.lcqb.upmc.fr/), [Slides](http://pierrebarrat.github.io/files/Slides_LCQB_influenza_2022.pdf)  
 
 ## 2021
 __Seasonal influenza viruses: Limited predictability of evolution & Inference of reassortment networks__  
