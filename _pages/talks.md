@@ -4,7 +4,11 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-## 2022  
+## 2022
+
+__TreeKnit: Inferring Ancestral Reassortment Graphs of influenza viruses__  
+[SIB days](https://sibdays.sib.swiss/), Bienne, June 2022, [Slides](http://pierrebarrat.github.io/files/14JUNE_1315-1330_BARRAT-CHARLAIX.pdf)
+
 __Seasonal influenza viruses: Limited predictability of evolution & Inference of reassortment networks__    
 Internal seminar of the [Laboratoire de Biologie Computationnelle et Quantitative](http://www.lcqb.upmc.fr/), [Slides](http://pierrebarrat.github.io/files/Slides_LCQB_influenza_2022.pdf)  
 
