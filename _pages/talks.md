@@ -4,6 +4,14 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+## 2023
+
+__Influenza: Limited predictability of evolution & Ecology of host and pathogen__  
+[Biological Evolution Across Scales](https://bevas-epfl.github.io/), Lausanne, April 2023, [Slides](http://pierrebarrat.github.io/files/barrat-charlaix_slides_BEvAS.pdf)  
+
+__Influenza: Limited predictability of evolution & Ecology of host and pathogen__  
+[biological sequence variation: from statistical modeling to structure, function, and evolutionary dynamics](https://sites.google.com/view/coevolcargese/home), Cargèse, April 2023, [Slides](http://pierrebarrat.github.io/files/barrat-charlaix_slides_coevol.pdf)  
+
 ## 2022
 
 __TreeKnit: Inferring Ancestral Reassortment Graphs of influenza viruses__  
