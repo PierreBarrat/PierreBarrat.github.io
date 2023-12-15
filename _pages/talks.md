@@ -7,6 +7,9 @@ author_profile: true
 ## 2023
 
 __Influenza: Limited predictability of evolution & Ecology of host and pathogen__  
+Internal seminar of the [Laboratoire Jean Perrin](https://www.labojeanperrin.fr/), Paris, Novembre 2023, [Slides](http://pierrebarrat.github.io/files/slides_LJP_2023.pdf)  
+
+__Influenza: Limited predictability of evolution & Ecology of host and pathogen__  
 [Biological Evolution Across Scales](https://bevas-epfl.github.io/), Lausanne, April 2023, [Slides](http://pierrebarrat.github.io/files/barrat-charlaix_slides_BEvAS.pdf)  
 
 __Influenza: Limited predictability of evolution & Ecology of host and pathogen__  
@@ -40,7 +43,7 @@ __How pairwise coevolutionary models capture the collective residue variability 
 
 ## 2017
 __How pairwise coevolutionary models capture the collective residue variability in proteins__  
-[UPMC Young Researcher's Metting 2017](https://yrbiomodel.sciencesconf.org/), Paris, December 2017, [Slides](http://pierrebarrat.github.io/files/Slides_BM_short.pdf)
+[UPMC Young Researcher's Meeting 2017](https://yrbiomodel.sciencesconf.org/), Paris, December 2017, [Slides](http://pierrebarrat.github.io/files/Slides_BM_short.pdf)
 
 
 <!-- {% if site.talkmap_link == true %}
