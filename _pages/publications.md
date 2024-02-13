@@ -14,10 +14,13 @@ Here is a link to my [Google Scholar profile](https://scholar.google.com/citatio
   {% include archive-single.html %}
 {% endfor %} -->
 And below is a list of papers:
+__[Eco-evolutionary dynamics of adapting pathogens and host immunity]__   
+Pierre Barrat-Charlaix, Richard A Neher  
+arXiv:2402.07252, [https://arxiv.org/abs/2402.07252](https://arxiv.org/abs/2402.07252)  
 
-__[TreeKnit: Inferring Ancestral Reassortment Graphs of influenza viruses](http://pierrebarrat.github.io/files/2021.12.20.473456v1.full.pdf)__   
+__[TreeKnit: Inferring Ancestral Reassortment Graphs of influenza viruses](http://pierrebarrat.github.io/files/treeknit.pdf)__   
 Pierre Barrat-Charlaix, Timothy G. Vaughan, Richard A Neher  
-bioRxiv 2021.12.20.473456, [https://doi.org/10.1101/2021.12.20.473456](https://doi.org/10.1101/2021.12.20.473456)
+PLoS Comput Biol, August 2022, [https://doi.org/10.1371/journal.pcbi.1010394](https://doi.org/10.1371/journal.pcbi.1010394)
 
 __[Sparse generative modeling via parameter reduction of Boltzmann machines: Application to protein-sequence families](http://pierrebarrat.github.io/files/PhysRevE.104.024407.pdf)__  
 Pierre Barrat-Charlaix, Anna Paola Muntoni, Kai Shimagaki, Martin Weigt, Francesco Zamponi  
