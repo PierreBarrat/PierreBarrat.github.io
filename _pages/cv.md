@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-My [CV in french](http://pierrebarrat.github.io/files/cv_fr.pdf) / Mon [CV en français](http://pierrebarrat.github.io/files/cv_fr.pdf)
+My [CV in french](http://pierrebarrat.github.io/files/cv.pdf) / Mon [CV en français](http://pierrebarrat.github.io/files/cv.pdf)
 
 
 <!-- {% include base_path %}
