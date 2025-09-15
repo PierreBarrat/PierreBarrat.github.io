@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Pierre Barrat-Charlaix"
   avatar           : "profile_casque.png"
-  bio              : "Quantitative biologist; researcher at the <a style='color: black;' href='https://www.disat.polito.it/research/research_groups/cmpcs/statistical_physics_and_interdisciplinary_applications'> Politecnico di Torino</a>."
+  bio              : "Quantitative biologist; researcher at the <a style='color: black;' href='https://www.lcqb.upmc.fr/'> Sorbonne Université</a>."
 
-  location         : "Torino, Italy"
+  location         : "Paris, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=j814XnEAAAAJ&hl"

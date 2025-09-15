@@ -4,6 +4,11 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+## 2025
+
+__Reconstruction of ancestral protein sequences using autoregressive generative models__
+[Phyloseminar](https://www.phyloseminar.org/), [Slides](http://pierrebarrat.github.io/files/slides_phyloseminar_2025.pdf)
+
 ## 2023
 
 __Influenza: Limited predictability of evolution & Ecology of host and pathogen__  
