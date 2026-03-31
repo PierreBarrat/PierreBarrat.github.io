@@ -6,8 +6,11 @@ author_profile: true
 ---
 ## 2025
 
-__Reconstruction of ancestral protein sequences using autoregressive generative models__
-[Phyloseminar](https://www.phyloseminar.org/), [Slides](http://pierrebarrat.github.io/files/slides_phyloseminar_2025.pdf)
+__Generative continuous time model reveals epistatic signatures in protein evolution__  
+[LEGEND: Machine Learning for Evolutionary Genomics Data](https://legend2025.sciencesconf.org/), Aussois, December 2025 [Slides](http://pierrebarrat.github.io/files/slides_legend_2025.pdf)  
+
+__Reconstruction of ancestral protein sequences using autoregressive generative models__  
+[Phyloseminar](https://www.phyloseminar.org/), [Slides](http://pierrebarrat.github.io/files/slides_phyloseminar_2025.pdf)  
 
 ## 2023
 
